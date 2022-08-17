@@ -8,8 +8,9 @@ body {
     justify-content: center;
 }
 
-h1{
+h1 {
     color: #005677;
+    margin: 10px;
 }
 
 .header-title {
@@ -17,10 +18,19 @@ h1{
     justify-content: center;
     background-color: #C4C4C4;
     margin-top: 20px;
-    margin-bottom: 160px;
+    margin-bottom: 128px;
 }
 
 .section-title {
     background-color: #C4C4C4;
     margin-top: 20px;
+}
+
+.section-body {
+   display: flex;
+}
+
+.section-body-date{
+    margin-left: 10px;
+    margin-right: 10px;
 }
