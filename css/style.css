@@ -40,3 +40,15 @@ p {
     margin-left: 10px;
     margin-right: 10px;
 }
+
+.footer-body {
+    background-color: #005677;
+    display: flex;
+    justify-content: center;
+    margin-top:50px;
+}
+
+.footer-title {
+    font-size: 17px;
+    color: white
+}
