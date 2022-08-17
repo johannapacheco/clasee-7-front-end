@@ -1,5 +1,26 @@
 body {
     margin: 0;
     padding: 0;
-    
+}
+
+.header-img {
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    color: #005677;
+}
+
+.header-title {
+    display: flex;
+    justify-content: center;
+    background-color: #C4C4C4;
+    margin-top: 20px;
+    margin-bottom: 160px;
+}
+
+.section-title {
+    background-color: #C4C4C4;
+    margin-top: 20px;
 }
